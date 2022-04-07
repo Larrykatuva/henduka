@@ -1,0 +1,152 @@
+.body {
+    background-image: url("images/6.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
+    height: 600px !important;
+}
+
+.links {
+    background-color: rgb(209, 206, 202);
+    padding: 15px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 70px;
+}
+
+.links a {
+    margin-right: 20px;
+    margin-left: 20px;
+    color: #4e4c4c;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.links a:first-child {
+    color: rgb(29, 28, 28);
+}
+
+.main h2 {
+    font-size: 40px;
+    margin-left: 100px;
+    width: 100px;
+    margin-top: 50px;
+    color: rgb(53, 106, 250);
+    font-weight: bold;
+}
+
+.main section {
+    background-color: #ffffff;
+    min-height: 100vh;
+    margin-top: 350px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.main section p {
+    padding: 0;
+    line-height: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main section p:last-child {
+    margin-top: 30px;
+}
+
+.text {
+    width: 420px;
+    line-height: 30px !important;
+    font-weight: 300 !important;
+}
+
+/************** about ****************/
+.about {
+    padding-left: 100px;
+    padding-right: 100px;
+    min-height: 100vh;
+}
+
+.about .top {
+    margin-top: 50px;
+}
+
+.about p {
+    font-weight: 300;
+    max-width: 70%;
+}
+
+.about h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+/************* farming ***************/
+.farming {
+    margin-left: 100px;
+    margin-right: 100px;
+    min-height: 100vh;
+}
+
+.farming .row {
+    margin-top: 60px;
+}
+
+.farming .row .col-md-7 h2 {
+    margin-bottom: 30px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.farming .row .col-md-7 p {
+    font-weight: 300 !important;
+    margin-top: -8px;
+}
+
+/************ hatchaboility ************/
+.hatch {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.hatch .content {
+    margin-top: 50px;
+}
+
+.hatch .content h2 {
+    margin-bottom: 30px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.hatch .content p {
+    font-weight: 300 !important;
+    margin-top: -8px;
+}
+
+.hatch .content li {
+    font-weight: 300 !important;
+}
+
+/************* stirage ***********/
+.storage .content {
+    margin-top: 50px !important;
+}
+
+.storage .content li {
+    font-weight: 300 !important;
+}
+
+.storage .content h2{
+    margin-top: 20px;
+}
+
+.row .col-md-6 img{
+    width: 350px;
+    height: 350px;
+}
+
+.test{
+    height: 300px;
+}
